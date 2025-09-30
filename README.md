@@ -210,12 +210,3 @@ Función que recibe un tipo de figura (`triangulo`, `rectangulo`, `circulo`) y l
 ### Ejercicio 40: Precio final con descuento
 Programa que solicita al usuario un precio y un cupón de descuento, y calcula el precio final aplicando el descuento si es válido.
 
----
-
-Este README puede servir como guía rápida para **referencia de cada ejercicio**, y puedes enlazarlo con los archivos `.py` correspondientes si los guardas separados por ejercicios.
-
----
-
-Si quieres, puedo hacer otra versión **con enlaces directos a cada función o script `.py`** para que sea un README completo listo para GitHub.  
-
-¿Quieres que haga eso?
